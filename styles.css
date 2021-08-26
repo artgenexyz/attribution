@@ -1,0 +1,23 @@
+.attribution {
+  font-family: "Inter", sans-serif;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  padding: 12px 0;
+}
+
+a .attribution {
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.attribution.dark {
+  background-color: #2986CC;
+}
+
+.attribution.light {
+  background-color: #55ACEE;
+}
