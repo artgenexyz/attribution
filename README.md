@@ -26,3 +26,9 @@ Powered by 🚢 buildship.dev
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
 </style>
 ```
+
+## Logo attribution
+
+![buildship black logo](https://github.com/buildship-dev/attribution/blob/master/logo-black.svg?raw=true)
+
+![buildship white logo](https://github.com/buildship-dev/attribution/blob/master/logo-white.svg?raw=true)
