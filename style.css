@@ -14,6 +14,10 @@ a .attribution {
   text-decoration: none;
 }
 
+a:visited .attribution {
+  text-decoration: none;
+}
+
 .attribution.dark {
   background-color: #2986CC;
 }
